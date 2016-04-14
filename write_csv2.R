@@ -13,3 +13,9 @@ read <- function(x,y){
   
 }
 
+
+name <- function(name){
+  
+  print(name)
+
+}
