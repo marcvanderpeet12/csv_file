@@ -7,3 +7,9 @@ print("Hello")
 
 print("nieuwe branch")
 
+read <- function(x,y){
+  
+  print(x*y)
+  
+}
+
