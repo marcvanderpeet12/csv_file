@@ -21,7 +21,7 @@ name <- function(name){
 }
 
 
-setwd("C:/Users/Marc/csv_file/source")
+setwd("~/csv_file/source")
 source("multiply.R")
 
 z <- multiply(3,4)
