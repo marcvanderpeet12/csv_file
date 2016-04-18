@@ -19,3 +19,9 @@ name <- function(name){
   print(name)
 
 }
+
+
+setwd("C:/Users/Marc/csv_file/source")
+source("multiply.R")
+
+z <- multiply(3,4)
